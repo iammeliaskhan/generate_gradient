@@ -1,7 +1,7 @@
-Generate Gradient
+# Generate Gradient
 Generate Gradient is a simple front-end project that enables users to create gradient backgrounds with custom colors. This project is built using HTML, CSS, and JavaScript, and can be customized easily for individual needs.
 
-Features
+## Features
 The following features are provided by Generate Gradient:
 
 Customizable gradient backgrounds with up to 10 colors
