@@ -30,6 +30,7 @@ Generate Gradient is built using the latest web development tools, including:
 - HTML5: used for the structure of the web page
 - CSS3: used for styling and layout
 - JavaScript ES6+: used for dynamic behavior and interactivity
+
 The project also uses the following third-party libraries:
 
 - jQuery: a fast, small, and feature-rich JavaScript library for DOM manipulation and event handling
