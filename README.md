@@ -12,17 +12,17 @@ The following features are provided by Generate Gradient:
 ## Usage
 To use Generate Gradient, follow the steps below:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/iammeliaskhan/generate_gradient.git
-Navigate to the project directory:
-bash
-Copy code
-cd generate_gradient
-Open the index.html file in your preferred browser.
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/iammeliaskhan/generate_gradient.git
+    ```
+2. Navigate to the project directory:
+   ```bash
+    cd generate_gradient
+    ```
+  Open the index.html file in your preferred browser.
 
-Follow the instructions on the screen to create your gradient background.
+  Follow the instructions on the screen to create your gradient background.
 
 Technologies
 Generate Gradient is built using the latest web development tools, including:
