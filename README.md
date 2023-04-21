@@ -24,13 +24,13 @@ To use Generate Gradient, follow the steps below:
 
 4. Follow the instructions on the screen to create your gradient background.
 
-Technologies
+## Technologies
 Generate Gradient is built using the latest web development tools, including:
 
-HTML5: used for the structure of the web page
-CSS3: used for styling and layout
-JavaScript ES6+: used for dynamic behavior and interactivity
-The project also uses the following third-party libraries:
+- HTML5: used for the structure of the web page
+- CSS3: used for styling and layout
+- JavaScript ES6+: used for dynamic behavior and interactivity
+- The project also uses the following third-party libraries:
 
 jQuery: a fast, small, and feature-rich JavaScript library for DOM manipulation and event handling
 spectrum: a color picker jQuery plugin with support for multiple formats and options
