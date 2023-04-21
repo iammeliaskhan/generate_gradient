@@ -9,7 +9,7 @@ The following features are provided by Generate Gradient:
 - An angle control for the gradient background
 - CSS code generation for the gradient background
 - A responsive and mobile-friendly user interface
-Usage
+## Usage
 To use Generate Gradient, follow the steps below:
 
 Clone the repository:
