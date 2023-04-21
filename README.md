@@ -35,13 +35,14 @@ The project also uses the following third-party libraries:
 
 - jQuery: a fast, small, and feature-rich JavaScript library for DOM manipulation and event handling
 - spectrum: a color picker jQuery plugin with support for multiple formats and options
+
 The user interface of the project is designed using Bootstrap 4, a popular front-end framework for responsive and mobile-first web development. Bootstrap's grid system is used for layout, and its CSS classes are used for styling.
 
-Contributing
+## Contributing
 Contributions to Generate Gradient are welcome and appreciated. If you would like to contribute, please follow the steps below:
 
-Fork the repository.
-Create a new branch for your changes.
-Make the necessary changes and commit them.
-Push your changes to your fork.
-Open a pull request.
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make the necessary changes and commit them.
+4. Push your changes to your fork.
+5. Open a pull request.
