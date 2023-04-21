@@ -30,10 +30,10 @@ Generate Gradient is built using the latest web development tools, including:
 - HTML5: used for the structure of the web page
 - CSS3: used for styling and layout
 - JavaScript ES6+: used for dynamic behavior and interactivity
-- The project also uses the following third-party libraries:
+The project also uses the following third-party libraries:
 
-jQuery: a fast, small, and feature-rich JavaScript library for DOM manipulation and event handling
-spectrum: a color picker jQuery plugin with support for multiple formats and options
+- jQuery: a fast, small, and feature-rich JavaScript library for DOM manipulation and event handling
+- spectrum: a color picker jQuery plugin with support for multiple formats and options
 The user interface of the project is designed using Bootstrap 4, a popular front-end framework for responsive and mobile-first web development. Bootstrap's grid system is used for layout, and its CSS classes are used for styling.
 
 Contributing
