@@ -20,9 +20,9 @@ To use Generate Gradient, follow the steps below:
    ```bash
     cd generate_gradient
     ```
-  Open the index.html file in your preferred browser.
+3. Open the `index.html` file in your preferred browser.
 
-  Follow the instructions on the screen to create your gradient background.
+4. Follow the instructions on the screen to create your gradient background.
 
 Technologies
 Generate Gradient is built using the latest web development tools, including:
