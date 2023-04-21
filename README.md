@@ -4,11 +4,11 @@ Generate Gradient is a simple front-end project that enables users to create gra
 ## Features
 The following features are provided by Generate Gradient:
 
-Customizable gradient backgrounds with up to 10 colors
-A color picker with support for HEX, RGB, and HSL formats
-An angle control for the gradient background
-CSS code generation for the gradient background
-A responsive and mobile-friendly user interface
+- Customizable gradient backgrounds with up to 10 colors
+- A color picker with support for HEX, RGB, and HSL formats
+- An angle control for the gradient background
+- CSS code generation for the gradient background
+- A responsive and mobile-friendly user interface
 Usage
 To use Generate Gradient, follow the steps below:
 
